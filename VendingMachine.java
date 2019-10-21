@@ -1,14 +1,3 @@
-/*
-
-● Welcomes the user and presents them with the various options.
-● Asks the user to enter a monetary value .
-● Allow user to make a selection .
-● Check to see is the user has entered enough money .
-	○ If the above is true, output the selected items and calculate change (if any) owed to the user.
-	○ If the user has not entered enough money calculate how much they still owe.
-
- */
-
 package vendingMachine;
 
 import java.util.Scanner;
